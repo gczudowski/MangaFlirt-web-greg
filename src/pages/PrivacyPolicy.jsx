@@ -2,7 +2,7 @@ function PrivacyPolicy() {
   return (
     <div className="privacy-policy">
       <div className="privacy-policy-container">
-        <h1>MangaFlirtPrivacy Policy</h1>
+        <h1>MangaFlirt Privacy Policy</h1>
         <p className="last-updated">Last updated: 14 December2025</p>
 
         <section className="privacy-section">
